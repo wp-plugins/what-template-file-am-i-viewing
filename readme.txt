@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Contributors: themightymo, llamaman
+Contributors: themightymo
 
 Donate link: http://www.themightymo.com/donate/
 
