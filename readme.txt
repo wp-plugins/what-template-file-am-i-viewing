@@ -18,7 +18,7 @@ This is a debugging plugin that displays the current php file that is loading on
 
 This is a debugging plugin that displays the current php file that is loading on the front end of the website.
 
-Thanks to [VegasGeek](http://www.vegasgeek.com) and [Mark Gason](http://www.gasolicious.com) for the code and inspiration for this plugin, respectively.
+Thanks to [VegasGeek](http://vegasgeek.com/which-template-is-being-used/) and [Mark Gason](http://www.gasolicious.com) for the code and inspiration for this plugin, respectively.
 
 == Installation ==
 
