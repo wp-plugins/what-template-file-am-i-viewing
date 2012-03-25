@@ -12,49 +12,24 @@ Tested up to: 3.3
 
 Stable tag: trunk
 
-
-
 This is a debugging plugin that displays the current php file that is loading on the front end of the website.
-
- 
 
 == Description ==
 
-
-
 This is a debugging plugin that displays the current php file that is loading on the front end of the website.
-
-
 
 == Installation ==
 
-
-
-There are two ways of installing the plugin:
-
-
+There are two methods of installing the plugin:
 
 **From the [WordPress plugins page](http://wordpress.org/extend/plugins/)**
-
-
-
 1. Download the plugin
 2. Upload the `what-template-file-am-i-viewing` folder to your `/wp-content/plugins/` directory.
 3. Active the plugin in the plugin menu panel in your administration area.
 
-
-
 **From inside your WordPress installation, in the plugin section.**
-
-
-
 1. Search for the `what template file am i viewing` plugin
 2. Install it and then active it.
-
-
-
-There are no options for this plugin.
-
 
 
 == Frequently Asked Questions ==
@@ -65,7 +40,8 @@ There are no options for this plugin.
 
 The output of the plugin displays at the top of the page on the front end of your site.
 
-
+= Where is the options page for this plugin? =
+There are no options for this plugin, nor is there an options page.
 
 == Upgrade Notice ==
 There are currently no upgrades available for this plugin
