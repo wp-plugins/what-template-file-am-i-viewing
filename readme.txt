@@ -39,9 +39,7 @@ There are two ways of installing the plugin:
 
 
 1. Download the plugin
-
-2. Upload the `what-template` folder to your `/wp-content/plugins/` directory.
-
+2. Upload the `what-template-file-am-i-viewing` folder to your `/wp-content/plugins/` directory.
 3. Active the plugin in the plugin menu panel in your administration area.
 
 
@@ -50,8 +48,7 @@ There are two ways of installing the plugin:
 
 
 
-1. Search for `what template` plugin
-
+1. Search for the `what template file am i viewing` plugin
 2. Install it and then active it.
 
 
@@ -65,8 +62,6 @@ There are no options for this plugin.
 
 
 = Where do I see the output of this plugin? =
-
-
 
 The output of the plugin displays at the top of the page on the front end of your site.
 
