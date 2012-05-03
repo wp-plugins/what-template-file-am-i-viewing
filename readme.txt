@@ -58,3 +58,7 @@ Coming soon!
 = 1.0 =
 
 * 	Initial Release
+
+= 1.1 =
+
+* 	Hide the output for non-admins (a.k.a. The output will not display for website visitors.)

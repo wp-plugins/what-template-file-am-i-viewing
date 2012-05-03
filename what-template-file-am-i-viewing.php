@@ -3,7 +3,7 @@
 Plugin Name: What Template File Am I Viewing?
 Plugin URI: http://www.themightymo.com
 Description: This is a debugging plugin that displays the current php file that is loading on the front end of the website.
-Version: 1.0
+Version: 1.1
 Author: The Mighty Mo! Design Co.
 Author URI: http://www.themightymo.com
 
@@ -29,7 +29,9 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 add_action('wp_head', 'show_template'); 
  
 function show_template() { 	
-	global $template;
-	print_r($template);
+	if (current_user_can('administrator')) {	
+		global $template;
+		print_r($template);
+	}
 }
 ?>
