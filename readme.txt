@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Contributors: themightymo
+Contributors: themightymo, vegasgeek
 
 Donate link: http://www.themightymo.com/donate/
 
@@ -8,9 +8,9 @@ Tags: debug
 
 Requires at least: 2.7
 
-Tested up to: 3.3
+Tested up to: 3.4.1
 
-Stable tag: trunk
+Stable tag: 1.2
 
 This is a debugging plugin that displays the current php file that is loading on the front end of the website.
 
@@ -40,7 +40,7 @@ There are two methods of installing the plugin:
 
 = Where do I see the output of this plugin? =
 
-The output of the plugin displays at the top of the page on the front end of your site.
+The output of the plugin displays in the admin bar at the top of the page on the front end of your site.
 
 = Where is the options page for this plugin? =
 There are no options for this plugin, nor is there an options page.
@@ -62,3 +62,7 @@ Coming soon!
 = 1.1 =
 
 * 	Hide the output for non-admins (a.k.a. The output will not display for website visitors.)
+
+= 1.2 =
+
+*	Moved the output to the admin bar
