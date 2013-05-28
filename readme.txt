@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Contributors: themightymo, vegasgeek
+Contributors: themightymo, vegasgeek, 9seeds
 
 Donate link: http://www.themightymo.com/donate/
 
