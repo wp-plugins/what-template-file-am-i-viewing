@@ -8,7 +8,7 @@ Tags: debug
 
 Requires at least: 2.7
 
-Tested up to: 3.4.1
+Tested up to: 4.0.1
 
 Stable tag: 1.2
 
